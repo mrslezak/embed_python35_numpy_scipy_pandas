@@ -1,1 +1,1 @@
-This is the snakefood-1.4 project for Python converted to work with Python 3x (tested to build fine with Python 3.5 using python setup.py install).
+This is a compiled Python 3.5 distribution with many libraries in it.  It's for actually deploying Python code .py as an executable on a machine that does not have Python installed.  In this manner, you can create Python programs for whatever purpose and distribute across an organization.
